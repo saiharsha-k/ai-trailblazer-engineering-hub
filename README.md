@@ -4,7 +4,7 @@
 **The World's Leading Open-Source Reference for Production-First AI Systems.**  
 Dive deep into GenAI, RAG, LLMs, Agentic AI, MLOps, LLMOps, xAI, and Responsible AI—bridging cutting-edge research with market-ready realities. This hub powers your journey from foundational Python to strategic leadership, with code, tutorials, and benchmarks for engineers, educators, and innovators worldwide.
 
-Built by [Your Name], the Production-First AI Engineer. Follow for deep-dive insights via [AI Trailblazer Newsletter](your-link) and [Beyond Barriers](your-link) for tech-driven growth.
+An Initiative by **Sai Harsha Kondaveeti**, the Production-First AI/ML Engineer. Follow for deep-dive insights via [AI Trailblazer Newsletter](https://aitrailblazer.substack.com/subscribe) and [Beyond Barriers](https://bsquarepsquare.substack.com/subsribe) for tech-driven growth.
 
 ## Why AI Trailblazer?
 - **Production-Focused**: Every module emphasizes scalable, ethical, and cost-effective AI—not just prototypes.
@@ -34,7 +34,7 @@ Navigate like a pro: Each links to dedicated sub-repos with hands-on projects.
 1. **Clone the Hub**: `git clone https://github.com/yourusername/ai-trailblazer-engineering-hub.git`
 2. **Setup Environment**: `pip install -r requirements-global.txt` (or use conda for reproducibility).
 3. **Run a Demo**: Open `/tutorials/first-rag-demo.ipynb` in Jupyter/Colab—build a production-ready RAG query in minutes.
-4. **Explore the Site**: Visit [GitHub Pages Link](your-pages-url) for searchable docs and video walkthroughs.
+4. **Explore the Site**: Visit [AI Trailblazer Hub](https://saiharshakondaveeti.com/ai-trailblazer-hub) for searchable docs and video walkthroughs.
 
 ## Benchmarks & Tools at a Glance
 - **Performance Tracker**: Run `/benchmarks/llm-speed-test.py` to compare models (e.g., GPT vs. open-source).
