@@ -4,7 +4,7 @@
 **The World's Leading Open-Source Reference for Production-First AI Systems.**  
 Dive deep into GenAI, RAG, LLMs, Agentic AI, MLOps, LLMOps, xAI, and Responsible AI—bridging cutting-edge research with market-ready realities. This hub powers your journey from foundational Python to strategic leadership, with code, tutorials, and benchmarks for engineers, educators, and innovators worldwide.
 
-An Initiative by **Sai Harsha Kondaveeti**, the Production-First AI/ML Engineer. Follow for deep-dive insights via [AI Trailblazer Newsletter](https://aitrailblazer.substack.com/subscribe) and [Beyond Barriers](https://bsquarepsquare.substack.com/subsribe) for tech-driven growth.
+An Initiative by [**Sai Harsha Kondaveeti**](https://linkedin.com/in/saiharshakondaveeti) , the Production-First AI/ML Engineer. Follow for deep-dive insights via [AI Trailblazer Newsletter](https://aitrailblazer.substack.com/subscribe) and [Beyond Barriers](https://bsquarepsquare.substack.com/subsribe) for tech-driven growth.
 
 ## Why AI Trailblazer?
 - **Production-Focused**: Every module emphasizes scalable, ethical, and cost-effective AI—not just prototypes.
