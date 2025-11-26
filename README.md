@@ -1,4 +1,4 @@
-![AI Trailblazer Banner](https://via.placeholder.com/1200x300/0f4c81/ffffff?text=AI+Trailblazer%3A+Production-First+Engineering) <!-- Replace with your logo/image -->
+![AI Trailblazer Banner](saiharsha-k/ai-engineering-hub/assets/AI Engineeering Trailblazer Logo.jpg) <!-- Replace with your logo/image -->
 
 # AI Trailblazer Engineering Hub
 **The World's Leading Open-Source Reference for Production-First AI Systems.**  
