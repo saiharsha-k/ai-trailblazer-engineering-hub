@@ -1,6 +1,6 @@
-![AI Trailblazer Banner](saiharsha-k/ai-engineering-hub/assets/AI Engineeering Trailblazer Logo.jpg) <!-- Replace with your logo/image -->
+![AI Trailblazer Banner](https://raw.githubusercontent.com/saiharsha-k/ai-engineering-hub/refs/heads/main/assets/AI%20Engineeering%20Trailblazer%20Logo.jpg) 
 
-# AI Trailblazer Engineering Hub
+# AI Engineering Trailblazer Hub
 **The World's Leading Open-Source Reference for Production-First AI Systems.**  
 Dive deep into GenAI, RAG, LLMs, Agentic AI, MLOps, LLMOps, xAI, and Responsible AI—bridging cutting-edge research with market-ready realities. This hub powers your journey from foundational Python to strategic leadership, with code, tutorials, and benchmarks for engineers, educators, and innovators worldwide.
 
